@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['Brands - v1 2024-02-20 9-34pm', 'Pepsi-Logo-Detection - v1 2022-12-29 3-43pm']
+
+roboflow:
+  workspace: rohith-thirunagari
+  project: pc-e4adv
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/rohith-thirunagari/pc-e4adv/dataset/1
