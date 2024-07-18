@@ -96,29 +96,12 @@ def main():
 if __name__ == '__main__':
     main()
 
-## License
-
-[Specify your chosen license here]
-
-## Contributing
-
-We welcome contributions to improve this object detection pipeline. Please follow these steps to contribute:
-
-1. Fork the repository
-2. Create a new branch for your feature
-3. Commit your changes
-4. Push to the branch
-5. Create a new Pull Request
-
 ## Troubleshooting
 
 - If you encounter "ModuleNotFoundError", make sure you have installed all required packages.
 - Ensure that your YOLO model file (.pt) is in the correct location and format.
 - Check that the input video path is correct and the video file exists.
 
-## Contact
-
-For questions or support, please contact [Your Name] at [your.email@example.com].
 
 ## Acknowledgments
 
